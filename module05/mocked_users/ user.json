@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Brittany Miller",
+        "last_name": "Johnson",
+        "email_address": "toddbaker@example.net",
+        "ip": "21.153.176.34",
+        "date_joined": "03/11/2019"
+    },
+    {
+        "name": "Edwin Copeland",
+        "last_name": "Hall",
+        "email_address": "matthewshaffer@example.org",
+        "ip": "211.123.32.113",
+        "date_joined": "08/08/1999"
+    },
+    {
+        "name": "Michael Smith",
+        "last_name": "Smith",
+        "email_address": "cummingsjohn@example.net",
+        "ip": "97.83.48.111",
+        "date_joined": "07/07/1996"
+    },
+    {
+        "name": "Alan Garcia",
+        "last_name": "Bailey",
+        "email_address": "relliott@example.com",
+        "ip": "105.32.154.85",
+        "date_joined": "04/11/2002"
+    },
+    {
+        "name": "Susan Moore",
+        "last_name": "Acevedo",
+        "email_address": "paynesteven@example.com",
+        "ip": "210.52.225.13",
+        "date_joined": "11/28/2009"
+    },
+    {
+        "name": "Michael Jackson",
+        "last_name": "Anderson",
+        "email_address": "mcdanieltroy@example.net",
+        "ip": "168.31.120.231",
+        "date_joined": "04/05/1992"
+    },
+    {
+        "name": "Carly Jenkins",
+        "last_name": "Boyd",
+        "email_address": "xunderwood@example.net",
+        "ip": "48.255.95.177",
+        "date_joined": "04/16/2019"
+    },
+    {
+        "name": "Gregory Valencia",
+        "last_name": "Gomez",
+        "email_address": "scottkirsten@example.net",
+        "ip": "123.187.202.25",
+        "date_joined": "03/17/2008"
+    },
+    {
+        "name": "John Smith",
+        "last_name": "Walsh",
+        "email_address": "jameselizabeth@example.com",
+        "ip": "116.202.143.100",
+        "date_joined": "08/25/2022"
+    },
+    {
+        "name": "Haley Burke",
+        "last_name": "Hammond",
+        "email_address": "carriejohnson@example.net",
+        "ip": "165.136.67.231",
+        "date_joined": "03/03/2015"
+    }
+]
