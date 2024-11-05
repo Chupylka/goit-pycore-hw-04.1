@@ -1,0 +1,6 @@
+#pip3 install cowsay
+#python3
+#import cowsay
+#message = "Time for break!!!"
+#cowsay.cow(message)
+
